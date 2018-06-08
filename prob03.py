@@ -2,3 +2,4 @@
 s = '/usr/local/bin/python'
 result = s.split("/")
 print(result)
+print(result)
